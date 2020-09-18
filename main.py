@@ -5,9 +5,9 @@ import speech_recognition as sr
 import re
 import threading
 import time
-API_KEY="teOJidBCBon7"
-PROJECT_TOKEN="tZrS3QSOm12V"
-RUN_TOKEN="tjLdMCrd2DoA"
+API_KEY="API_KEY"
+PROJECT_TOKEN="PROJECT_TOKEN"
+RUN_TOKEN="RUN_TOKEN"
 
 
 class Data:
